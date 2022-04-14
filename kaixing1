@@ -1,11 +1,1 @@
-proxies:
-  - {name: 🇭🇰 pccw.stunnel.vip:4700/#HKBGP, server: pccw.stunnel.vip, port: 4700, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇰🇷 kr.tcpbbr.xyz:2590/#韩國, server: kr.tcpbbr.xyz, port: 2590, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇮🇳 in.tcpbbr.xyz:10884/#印度, server: in.tcpbbr.xyz, port: 10884, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇸🇬 nz.tcpbbr.xyz:10920/#新西兰, server: nz.tcpbbr.xyz, port: 10920, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇦🇺 au.tcpbbr.xyz:10930/#澳大利亚, server: au.tcpbbr.xyz, port: 10930, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇬🇧 uk.tcpbbr.xyz:10882/#英國, server: uk.tcpbbr.xyz, port: 10882, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇷🇺 ru.tcpbbr.xyz:10883/#俄羅斯, server: ru.tcpbbr.xyz, port: 10883, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇹🇷 tr.tcpbbr.xyz:20885/#土耳其, server: tr.tcpbbr.xyz, port: 20885, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: 🇩🇪 de.tcpbbr.xyz:10887/#德國, server: de.tcpbbr.xyz, port: 10887, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
-  - {name: fr.tcpbbr.xyz:10910/#法國, server: fr.tcpbbr.xyz, port: 10910, type: http, username: jeep.jipu@gmail.com, password: 9831ad66-6b0a-11ec-bd7c-f23c913c8d2b, tls: true}
+
